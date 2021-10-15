@@ -1,0 +1,104 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid #437DD4;
+    border-bottom: 5px solid #437DD4;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    margin: 40px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+}
+
+article {
+    background-color: white;
+    padding: 22px;
+    width: 400px;
+    margin: 22px;
+}
+
+article h2 {
+    text-align:center;
+}
+
+article p {
+    text-align:center;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: grey;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    margin: 15px 40px 30px 50px;
+}
+
+footer {
+    background-color: #6A94D4;
+    padding: 20px;
+}
+
+footer a {
+    margin-right: 0px;
+}
+
+footer p {
+    font-size: 24px;
+    margin:35px 250px 30px 125px;
+}
+
+.hed {
+    display: flex;
+}
+
+.navigation {
+    display:flex;
+}
+
+.fot {
+    display:flex;
+}
